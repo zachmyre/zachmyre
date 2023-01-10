@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zachary</h1>
-<h3 align="center">A passionate full stack developer from Texas</h3>
+<h3 align="center">A passionate Software Developer from Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zachmyre&label=Profile%20views&color=0e75b6&style=flat" alt="zachmyre" /> </p>
 
